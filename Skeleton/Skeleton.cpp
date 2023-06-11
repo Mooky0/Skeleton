@@ -1,5 +1,5 @@
 //=============================================================================================
-// Mintaprogram: Zöld háromszög. Ervenyes 2019. osztol.
+// Mintaprogram: Zï¿½ld hï¿½romszï¿½g. Ervenyes 2019. osztol.
 //
 // A beadott program csak ebben a fajlban lehet, a fajl 1 byte-os ASCII karaktereket tartalmazhat, BOM kihuzando.
 // Tilos:
@@ -18,7 +18,7 @@
 //
 // NYILATKOZAT
 // ---------------------------------------------------------------------------------------------
-// Nev    : Tóth Gábor
+// Nev    : Tï¿½th Gï¿½bor
 // Neptun : F041OM
 // ---------------------------------------------------------------------------------------------
 // ezennel kijelentem, hogy a feladatot magam keszitettem, es ha barmilyen segitseget igenybe vettem vagy
@@ -33,7 +33,7 @@
 //=============================================================================================
 #include "framework.h"
 
-//a poincare.cpp demo file-ból masolt osztaly.
+//a poincare.cpp demo file-bï¿½l masolt osztaly.
 class ImmediateModeRenderer2D : public GPUProgram {
 	const char* const vertexSource = R"(
 		#version 330
